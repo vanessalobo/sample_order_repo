@@ -1,0 +1,4 @@
+
+# Auto-detected dependencies for generated tests (codelyzer)
+pytest
+pytest-cov

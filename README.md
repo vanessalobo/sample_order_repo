@@ -23,7 +23,10 @@ A small sample Python repository for AI code analysis and automated test generat
 
 ## Run
 ```bash
+pip install -e .
+
 python -m shopkit.cli
+
 ```
 
 ## Notes
